@@ -1,0 +1,5 @@
+
+applications:
+    name: SemanticSimilarityFlask # name your app whatever you'd like
+    random-route: true
+    memory: 256M # can adjust this based on your service 
